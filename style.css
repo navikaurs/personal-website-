@@ -29,6 +29,12 @@ h4 {
     text-align: center;
     font-size: 2.0em;
   } 
+  h5 { 
+    color: black ;
+    font-family: Copperplate, Geneva, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 1.8em;
+  } 
 
 img {
    display: block;
@@ -39,9 +45,10 @@ img {
   }
   p {
       font-size: 1.3em;
+      width: 40%; 
       margin-left: auto;
       margin-right: auto;
-      width: 50%;
+    text-align: center;
     
   }
   li {
@@ -66,3 +73,4 @@ img {
     right: 80%;
     z-index: -1;
   }
+  
